@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Souqly.Business/Souqly.Business.csproj" />
+  <Project Path="Souqly.DataAccess/Souqly.DataAccess.csproj" />
+  <Project Path="Souqly.Presentation/Souqly.Presentation.csproj" />
+</Solution>
